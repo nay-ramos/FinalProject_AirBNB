@@ -1,5 +1,6 @@
-# Projeto Télos - AirBNB NY       <font size=2>v2.0</font>
+# AirBNB New York Revenue Analysis     <font size=2>v2.0</font>
   <code style="color:#4a304f"><font color= #d689e6>bootcamp project</font></code>
+
 This capstone project for the Télos bootcamp addressed the challenge of increasing AirBNB revenue in New York City despite its many platform restrictions. We synthesized our accumulated learning to develop a solution, which we presented to our sponsor, ThoughtWorks, demonstrating our technical capabilities and progress.
 
 ### 💁‍♀️ Team
