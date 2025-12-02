@@ -64,6 +64,7 @@ We have structured the analysis into four distinct dashboards, each designed to 
 - Opportunity Analysis: Focused on identifying specific, actionable opportunities for revenue growth by location and market niche.
 ---
 
+
 ### 💡 Key Insights
 The analysis focused on the **high-performance segment** (listings with high estimated occupancy and high future demand).
 
